@@ -21,6 +21,7 @@ Articles explain ideas in depth; courses and open projects give readers practica
 For questions or collaboration:
 
 - <a href="https://xnova.dev/contacts/">Contact XNova</a>
-- <a href="mailto:xnova.dev@gmail.com">Email XNova</a>
+- <a href="mailto:contact@xnova.dev">Email XNova</a>
 - <a href="https://medium.com/@xnova.dev">Medium</a>
+- <a href="https://stepik.org/users/1410917027/profile">Stepik</a>
 
